@@ -327,9 +327,7 @@ header {
 
 }
 
-.section-three-img {
-	padding: 3rem;
-}
+
 
 /*#about-us-section {
 	padding-bottom: 3rem;
@@ -583,7 +581,10 @@ footer h4 {
 
 	#section-three h5{
     	margin-top: 2rem;
-    	
+	}
+
+	.section-three-img {
+		padding: 3rem;
 	}
 
 	#map-button {
