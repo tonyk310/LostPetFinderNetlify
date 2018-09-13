@@ -271,7 +271,7 @@ header {
 }
 
 #free-ebook {
-	background: linear-gradient(to right, transparent, white 100%), 
+	background: linear-gradient(to right, rgba(255,255,255, 0.001), white 100%), 
 	             url(./images/kissing-dog.jpg);
 
 	box-shadow: inset 46px 0px 63px 0px rgba(255,255,255,1);
