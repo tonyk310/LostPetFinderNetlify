@@ -11,3 +11,8 @@ $('h3').click(function(){
 	$(this).next('div').slideToggle('500').toggleClass('.about-hidden');
 
 });
+
+// $('#download').click(function(){
+// 	// $(this).css('background', 'pink');
+// 	// ga('send', 'event', 'Videos', 'play', 'Fall Campaign');
+// });
