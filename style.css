@@ -25,7 +25,7 @@ header {
 	
 	background: 
 
-	linear-gradient(to left, rgba(255,255,255, 0.001), white 100%),
+	linear-gradient(to left, rgba(255,255,255, 0.1001), white 100%),
 	             
 	             url(./images/happy-family.jpg);
 
